@@ -1,5 +1,1 @@
-# hello-world
-Hello World repository for Git tutorial
-This is an example repository for the Git tutoial on https://www.w3schools.com
-
-This repository is built step by step in the tutorial.
+#TESTES DE FUNDAMENTOS USANDO GIT REMOTAMENTE , COMANDOS DENTRO DO TERMINAL ATRAVES DO GIT BASH E DANDO COMMIT PELO REMOTE ORIGIN
